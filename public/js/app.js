@@ -65177,7 +65177,7 @@ var ChatVideo = function ChatVideo(_ref) {
       videoRef = _ref.videoRef;
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-12 col-sm-6"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(ChatVideoEl, {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_ChatVideo_styles__WEBPACK_IMPORTED_MODULE_2__["ChatVideoEl"], {
     src: "",
     className: videoClass,
     ref: videoRef

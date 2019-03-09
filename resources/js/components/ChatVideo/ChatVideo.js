@@ -1,6 +1,6 @@
 import React from 'react'
 import { object, string } from 'prop-types'
-import { ChatVideoContainer } from './ChatVideo.styles';
+import { ChatVideoEl } from './ChatVideo.styles';
 
 const ChatVideo = ({ videoClass, videoRef }) => {
   return (
